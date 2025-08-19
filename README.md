@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there,
 
 I'm a passionate full-stack developer specializing in **.NET** on the backend and **React** on the frontend. I love building scalable web applications, exploring clean architecture, and crafting intuitive user experiences.
 
