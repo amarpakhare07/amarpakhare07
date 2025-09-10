@@ -3,7 +3,7 @@
 ## 🚀 Tech Stack
 
 - 🧠 Backend: `.NET Core`, `ASP.NET`, `Entity Framework`, `SQL Server`
-- 🎨 Frontend: `React`, `TypeScript`, `Redux`, `Tailwind CSS`
+- 🎨 Frontend: `AngularJS`, `TypeScript`, `Redux`, `Tailwind CSS`
 - ☁️ DevOps: `Docker`, `Azure`, `GitHub Actions`
 - 🧪 Testing: `NUnit`, `React Testing Library`
 
